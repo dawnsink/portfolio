@@ -1,3 +1,9 @@
+
+// **********
+// haven't we already read in the mongoose library in the 
+// index.js file?
+// **********
+
 // 1. Read in your mongoose library
 const mongoose = require('mongoose');
 // 2. Get the Schema class from mongoose
