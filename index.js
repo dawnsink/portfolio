@@ -47,3 +47,5 @@ app.get("/api/v1/signs", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`see the magic: http://localhost:${PORT}`);
 })
+
+// "start": "node index.js",
