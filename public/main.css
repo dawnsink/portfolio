@@ -1,0 +1,71 @@
+body {
+    background: #F3F3F3;
+    padding: 2rem;
+}
+h1{
+    font-family: Nova Cut, Helvetica-Neue, sans-serif;
+    font-size: 100px;
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Nova Cut, Helvetica-Neue, sans-serif;
+    font-size: 36px;
+    color:black;
+    text-align: center;
+    line-height: 200%;
+}
+h3{
+    font-family: Nova Cut, Helvetica-Neue, sans-serif;
+    font-size: 28px;
+    color:black;
+    text-align: center;
+    line-height: 200%;
+}
+p {
+    font-family: Nova Square, Helvetica-Neue, sans-serif;
+    font-size: 20px;
+    letter-spacing: .05em;
+    color:black;
+    text-align: left;
+    line-height: 200%;
+}
+.sign-form{
+    text-align: center;
+}
+input {
+    font-family: Nova Square, Helvetica-Neue, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+}
+button {
+    font-family: Nova Square, Helvetica-Neue, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto;
+    margin-left: 9rem;
+    margin-right: 9rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 60px;
+}
+.grid-item {
+    border: .25px solid black;
+    padding: 20px;
+    font-family: Nova Cut, Helvetica-Neue, sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    color:black;
+    text-align: center;
+    background: none;
+    text-decoration: none;
+}
